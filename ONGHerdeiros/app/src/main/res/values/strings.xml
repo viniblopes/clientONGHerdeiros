@@ -1,0 +1,35 @@
+<resources>
+    <string name="telaVideo">Video</string>
+    <string name="apoie">Apoie um herdeirinho!</string>
+    <string name="doar">Quero doar $$$</string>
+    <string name="doarItem">Quero doar Itens</string>
+    <string name="eventos">Eventos</string>
+    <string name="app_name">ONGHerdeiros</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="celular">Celular</string>
+    <string name="empresa">Empresa</string>
+    <string name="site">Site</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="eventosT">Eventos Disponiveis</string>
+    <string name="eventosD">12/04/2017 - Noite da Pizza\n17/08/2017 - Bingo</string>
+    <string name="queroDoarTxt1">Atualmente a ONG precisa dos seguintes itens:</string>
+    <string name="queroDoarTxt2">Microondas</string>
+    <string name="queroDoarTxt3">Geladeira</string>
+    <string name="enviar">Enviar</string>
+    <string name="doartxt1">Faça a sua doação como beneficio fiscal!</string>
+    <string name="doartxt2">Certificado de Utilidade Pública Federal Portaria N 2021 de 17/05/2013</string>
+    <string name="doartxt3">Doe seus creditos da Nota Fiscal Paulista</string>
+    <string name="doartxt4">Basta indicar nosso CNPJ nas suas compras ou enviar seus cupons
+    para uma de nossas unidades CNPJ/MF n.08.346.099/0001-90</string>
+    <string name="doartxt5">Doe pelo PayPal</string>
+    <string name="baixandoItens">Buscando Itens</string>
+    <string name="baixandoEventos">Buscando lista de Eventos</string>
+    <string name="enviandoMSG">Enviando Mensagem</string>
+    <string name="pfAguarde">Por favor aguarde...</string>
+    <string name="msgEnviada">Mensagem enviada</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
